@@ -1,0 +1,3 @@
+AgroSense AI-Powered Soil Analysis and Crop Recommendation System
+
+This repository is created for demonstrating Jira-GitHub integration.
